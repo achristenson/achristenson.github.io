@@ -1,7 +1,19 @@
-body {
-  background-color: black;
+* {
+  color: #5B9EEB;
 }
 
-title {
-  color: blue;
+body {
+  background-color: #CCC;
+}
+
+.title {
+  color: #7BACEB;
+}
+
+.body {
+  margin: 160px;
+}
+
+.about {
+  font-size: 24px;
 }
